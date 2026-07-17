@@ -11,7 +11,7 @@ Group 1.3
 
 ## Group Members
 
-- Akorli Wiison           – 01244386B
+- Akorli Wilson           – 01244386B
 - Ayertey Daniel          – 01242984B
 - Addai Mathias           – 01242107B
 - Axorlu Dora             – 01242327B
