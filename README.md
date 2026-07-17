@@ -17,7 +17,7 @@ Group 1.3
 - Axorlu Dora             – 01242327B
 - Adarkwa Richard         – 01243855B
 - Badu Solomon Confidence – 01244555B
-- Amponsah Godfred Kofi   – 01243207B
+- Ampomah Godfred Kofi   – 01243207B
 - Appiah John             – 01244894B 
 - Atanley Edward          – 01242647B
 - Afirege Mariam Abubakar – 01242899B
