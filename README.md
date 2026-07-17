@@ -75,4 +75,4 @@ The program displays:
 Douglas Ayitey
 
 ## License
-This project was developed for academic purposes at Accra Technical University
+This project was developed for academic purposes at Accra Technical University.
